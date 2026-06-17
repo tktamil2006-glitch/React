@@ -10,7 +10,7 @@ function app(){
   return(
     <>
     
-    <h1 style={{color:"blue"}}>page for {name}</h1>
+    <h1 style={{color:"skyblue"}}>page for {name} 🦜</h1>
     <div style={{display:"flex"}}>
     <img style={{width:200}}
     src="https://i.pinimg.com/736x/9e/9a/bc/9e9abc6ca4e51e6306be36306d51613f.jpg" alt="birds" />
